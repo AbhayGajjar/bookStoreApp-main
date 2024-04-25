@@ -1,0 +1,66 @@
+[
+    {
+        "id":1,
+        "name":"Story Book",
+        "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi veritatis et, ratione culpa ipsa adipisci id vero aperiam",
+        "category":"free",
+        "price":"free",
+        "image":"https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1713952261~exp=1713955861~hmac=5019a01c7dbe5f970857111b3a16a821a1ffb2d31a98903e92f61dd033248de2&w=740"
+
+    },
+    {
+        "id":2,
+        "name":"Music Book",
+        "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi veritatis et, ratione culpa ipsa adipisci id vero aperiam",
+        "category":"free",
+        "price":0,
+        "image":"https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1713952261~exp=1713955861~hmac=5019a01c7dbe5f970857111b3a16a821a1ffb2d31a98903e92f61dd033248de2&w=740"
+
+    },
+    {
+        "id":1,
+        "name":"Comedy Book",
+        "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi veritatis et, ratione culpa ipsa adipisci id vero aperiam",
+        "category":"free",
+        "price":0,
+        "image":"https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1713952261~exp=1713955861~hmac=5019a01c7dbe5f970857111b3a16a821a1ffb2d31a98903e92f61dd033248de2&w=740"
+
+    },
+    {
+        "id":1,
+        "name":"Thrillar Book",
+        "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi veritatis et, ratione culpa ipsa adipisci id vero aperiam",
+        "category":"free",
+        "price":0,
+        "image":"https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1713952261~exp=1713955861~hmac=5019a01c7dbe5f970857111b3a16a821a1ffb2d31a98903e92f61dd033248de2&w=740"
+
+    },
+    {
+        "id":1,
+        "name":"Arebian Book",
+        "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi veritatis et, ratione culpa ipsa adipisci id vero aperiam",
+        "category":"free",
+        "price":0,
+        "image":"https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1713952261~exp=1713955861~hmac=5019a01c7dbe5f970857111b3a16a821a1ffb2d31a98903e92f61dd033248de2&w=740"
+
+    },
+    {
+        "id":1,
+        "name":"Jokes Book",
+        "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi veritatis et, ratione culpa ipsa adipisci id vero aperiam",
+        "category":"free",
+        "price":0,
+        "image":"https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1713952261~exp=1713955861~hmac=5019a01c7dbe5f970857111b3a16a821a1ffb2d31a98903e92f61dd033248de2&w=740"
+
+    },
+    {
+        "id":1,
+        "name":"Sayri Book",
+        "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi veritatis et, ratione culpa ipsa adipisci id vero aperiam",
+        "category":"free",
+        "price":0,
+        "image":"https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1713952261~exp=1713955861~hmac=5019a01c7dbe5f970857111b3a16a821a1ffb2d31a98903e92f61dd033248de2&w=740"
+
+    }
+
+]
